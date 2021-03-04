@@ -1,5 +1,7 @@
 # vuejs_frontend
 
+Contains examples for tables, authentication, etc
+
 ## Project setup
 ```
 npm install
